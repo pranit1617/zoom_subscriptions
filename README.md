@@ -19,7 +19,7 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 
 ## Business Recommendations 
 - Investigate ways to increase the ratio of yearly vs. monthly plans, as the decline in yearly subscriptions has a greater impact than a decline in monthly subscriptions. 
-- Business subscriptions dropped to almost $0 at the end of 2021. Investigate whether there are competitors addressing this middle market.
+- Business subscriptions dropped to almost $0 at the end of 2021. Investigate whether there are competitors addressing this middle market and if there are new features Zoom should implement accordingly.
 - The largest drop in bookings comes from the EMEA region. Research whether lockdown policies, other technology, or cultural shifts are contributing factors.
 
 
