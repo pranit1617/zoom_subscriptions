@@ -12,7 +12,7 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 
 ### Plan Period:
 - **Yearly plans are responsible for over 95% of weekly bookings,** though the ratio of yearly to monthly plans decreased in 2021.
-- Yearly plans exhibited large spikes during peak-COVID times and ** declined in the second half of 2021.**
+- Yearly plans exhibited large spikes during peak-COVID times and declined in the second half of 2021.
 
 ### Plan Region:
 - North America (NA) has historically made up about 50% of bookings, and EMEA and NA follow similar trends throughout 2020-2021. The entire Enterprise plan spike in 2020 was attributed to North America.
