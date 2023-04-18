@@ -6,21 +6,22 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 
 ## Summary of Insights
 ### Plan Type:
-- Each quarter, the **Pro plan is the highest-earning plan** ($600K-$1M), while Enterprise plans earn about half of the Pro plans, and Business plans earn about half of Enterprise plans.
-- In mid-2020, all plan bookings spiked, but the **Pro plan had an all-time high at $1M bookings** in the week of May 3rd.
+- Each quarter, the Pro plan is the highest-earning plan, which also makes up about 50% of bookings since the beginning of 2021.
+- The enterprise plan had an all-time high at the beginning of March 2020 due to the pandemic. 
+- Towards the end of 2021, the middle tier (Business) severely declined, and now makes up less than 10% of the overall plan mix.
 
 ### Plan Period:
-- **Yearly plans are responsible for over 90% of weekly bookings,** though the ratio of yearly to monthly plans decreased in 2021.
-- Yearly plans exhibited large spikes during peak-COVID times and **rapidly declined in the second half of 2021.**
+- **Yearly plans are responsible for over 95% of weekly bookings,** though the ratio of yearly to monthly plans decreased in 2021.
+- Yearly plans exhibited large spikes during peak-COVID times and ** declined in the second half of 2021.**
 
 ### Plan Region:
-- The EMEA region is by far the highest-earning region, making up more than 50% of global bookings until the end of 2020. This decreased to about 40% by the end of 2021.
-- In 2021, LATAM and NA started making up a larger proportion of weekly bookings as EMEA bookings greatly declined.
+- North America (NA) has historically made up about 50% of bookings, and EMEA and NA follow similar trends throughout 2020-2021. The entire Enterprise plan spike in 2020 was attributed to North America.
+- Note that about $80K of bookings have missing region data.
 
 ## Business Recommendations 
 - Investigate ways to increase the ratio of yearly vs. monthly plans, as the decline in yearly subscriptions has a greater impact than a decline in monthly subscriptions. 
-- Business subscriptions dropped to almost $0 at the end of 2021. Investigate whether there are competitors addressing this middle market and if there are new features Zoom should implement accordingly.
-- The largest drop in bookings comes from the EMEA region. Research whether lockdown policies, other technology, or cultural shifts are contributing factors.
+- Business subscriptions dropped significantly at the end of 2021. Investigate whether there are competitors addressing this middle market and if there are new features Zoom should implement accordingly.
+- North America exhibits a slightly declining share of the weekly bookings ever since the beginning of 2020. If Zoom gradually shifts to a less NA-centric market, will need to expand business analyses to include global competitors and economic factors like changes in exchange rates.
 
 
 
