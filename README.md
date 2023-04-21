@@ -6,22 +6,21 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 
 ## Summary of Insights
 ### Plan Type:
-- Each quarter, the Pro plan is the highest-earning plan, which also makes up about 50% of bookings since the beginning of 2021.
-- The enterprise plan had an all-time high at the beginning of March 2020 due to the pandemic. 
-- Towards the end of 2021, the middle tier (Business) severely declined, and now makes up less than 10% of the overall plan mix.
+- At the start of the pandemic, Enterprise plans had a significant spike and record-high at $226K bookings in one week. This spike then significantly decreased and slowed in both summer of 2020 and summer of 2021. 
+- While enterprise bookings used to make up over 40% of all bookings, at the end of 2020 it only made up around 30% of bookings, despite being the most expensive plan.
+- Business plans have completely dropped off at the end of 2021 - investigate whether there is an issue with the product or a new competitor for this market.
 
 ### Plan Period:
-- **Yearly plans are responsible for over 95% of weekly bookings,** though the ratio of yearly to monthly plans decreased in 2021.
-- Yearly plans exhibited large spikes during peak-COVID times and declined in the second half of 2021.
+- Yearly plans make up over 90% of bookings, but have exhibited a significant drop-off towards the end of 2021 that was not seen in monthly plans.
 
 ### Plan Region:
-- North America (NA) has historically made up about 50% of bookings, and EMEA and NA follow similar trends throughout 2020-2021. The entire Enterprise plan spike in 2020 was attributed to North America.
-- Note that about $80K of bookings have missing region data.
+- During the peak-COVID months in early 2020, North America made up almost two thirds of weekly bookings, and most of the spike in enterprise was contained to this region. 
+- North America commprises about 2x the amount of bookings as EMEA, while the captured APAC market for Zoom subscriptions is about 2x as large as LATAM. 
 
-## Business Recommendations 
-- Investigate ways to increase the ratio of yearly vs. monthly plans, as the decline in yearly subscriptions has a greater impact than a decline in monthly subscriptions. 
-- Business subscriptions dropped significantly at the end of 2021. Investigate whether there are competitors addressing this middle market and if there are new features Zoom should implement accordingly.
-- North America exhibits a slightly declining share of the weekly bookings ever since the beginning of 2020. If Zoom gradually shifts to a less NA-centric market, will need to expand business analyses to include global competitors and economic factors like changes in exchange rates.
+## Recommendations & Next Steps
+- Investigate why Enterprise plans exhibit a steep dip in summer months and expand this analysis to include more years to examine whether this trend is COVID-related or consistent across time. Is there a product feature we can implement to combat this dip?
+- Yearly plans have an outsized-impact on bookings, so consider adding trials or promotions to improve the dip in yearly plans.
+- While regional trends have remained relatively consistent, EMEA shows the most volatility - investigate whether there are features or promos to help make this region more stable. 
 
 
 
