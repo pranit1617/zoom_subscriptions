@@ -7,7 +7,6 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 ## Summary of Insights
 ### Plan Type:
 - At the start of the pandemic, Enterprise plans had a significant spike and record-high at $226K bookings in one week. This spike then significantly decreased and slowed in both summer of 2020 and summer of 2021. 
-- While enterprise bookings used to make up over 40% of all bookings, at the end of 2020 it only made up around 30% of bookings, despite being the most expensive plan.
 - Business plans have completely dropped off at the end of 2021 - investigate whether there is an issue with the product or a new competitor for this market.
 
 ### Plan Period:
