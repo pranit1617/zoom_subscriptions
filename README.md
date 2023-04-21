@@ -14,7 +14,6 @@ Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive
 
 ### Plan Region:
 - During the peak-COVID months in early 2020, North America made up almost two thirds of weekly bookings, and most of the spike in enterprise was contained to this region. 
-- North America commprises about 2x the amount of bookings as EMEA, while the captured APAC market for Zoom subscriptions is about 2x as large as LATAM. 
 
 ## Recommendations & Next Steps
 - Investigate why Enterprise plans exhibit a steep dip in summer months and expand this analysis to include more years to examine whether this trend is COVID-related or consistent across time. Is there a product feature we can implement to combat this dip?
