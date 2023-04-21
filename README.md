@@ -1,7 +1,7 @@
 # Zoom Subscriptions Analysis (2020-2021)
 Portfolio project analytics Zoom subscription trends from 2020-2021. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/christine3803/viz/subscriptions_dashboard/Dashboard). 
 
-<img width="742" alt="image" src="https://user-images.githubusercontent.com/56368090/233529085-da0fd869-a0de-43d8-9233-404e70ddca0a.png">
+https://public.tableau.com/app/profile/christine3803/viz/ZoomSubscriptions/Dashboard
 
 ## Summary of Insights
 ### Plan Type:
