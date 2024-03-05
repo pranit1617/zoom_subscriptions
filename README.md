@@ -3,6 +3,12 @@ Analyzing Zoom subscription trends from 2020-2021. Interactive Tableau dashboard
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/56368090/233529318-d4135bc3-6948-4ddd-81bb-4fe2cbfce68f.png">
 
+## North Star Metrics and Dimensions
+- Quarterly bookings
+- Plan type
+- Plan period
+- Plan region
+
 ## Summary of Insights
 ### Plan Type:
 - At the start of the pandemic, Enterprise plans had a significant spike and record-high at $226K bookings in one week. This spike then significantly decreased and slowed in both summer of 2020 and summer of 2021. 
