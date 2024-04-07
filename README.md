@@ -1,13 +1,13 @@
 # Zoom Subscriptions Analysis (2020-2021)
 Analyzing Zoom subscription trends from 2020-2021. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/christine3803/viz/ZoomSubscriptions/Dashboard). 
 
-<img width="750" alt="image" src="https://user-images.githubusercontent.com/56368090/233529318-d4135bc3-6948-4ddd-81bb-4fe2cbfce68f.png">
+<img width="738" alt="Screenshot 2024-04-06 at 10 47 25 PM" src="https://github.com/christinejiang11/zoom_subscriptions/assets/56368090/db8d9e87-3a69-4d3e-bc45-48e2c2744d6c">
 
 ## North Star Metrics and Dimensions
-- Quarterly bookings
-- Plan type
-- Plan period
-- Plan region
+- **Sales:** Total subscription sales from pro, business, and buisness plus plans
+- **Plan type:** Business, enterprise, or pro
+- **Plan period:** Yearly or monthly plan
+- **Plan region:** Asia Pacific (APAC), North America (NA), Latin America (LATAM), Europe, Middle East, Africa (EMEA)
 
 ## Summary of Insights
 ### Plan Type:
